@@ -56,8 +56,17 @@ The interactive dashboard contains two pages:
 - The dataset is synthetic and does not represent actual hospital records.
 - Findings are descriptive and do not establish clinical or causal relationships.
 - Results are limited to the variables available in the dataset.
+### Dashboard Preview
 
+**1. Patient Insights Overview**
+
+![Patient Insights Overview](04_Screenshots/01_Patient_Insights_Overview.png)
+
+**2. Healthcare Operational Analysis**
+
+![Healthcare Operational Analysis](04_Screenshots/02_Healthcare_Operational_Analysis.png)
 ## Author
+
 
 **Nishita Hazarika**  
 MSc Biochemistry
